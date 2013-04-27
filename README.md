@@ -1,4 +1,3 @@
-Proyecto3Inf
-============
+Herramientas educativas online
 
-Proyecto de grado!
+:D
